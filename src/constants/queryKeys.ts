@@ -1,0 +1,6 @@
+export const FAVORITES_KEY = 'favorites'
+export const ACCOUNT_STATE_KEY = 'account_states'
+export const MOVIE_KEY = 'movies'
+export const SEARCH_KEY = 'search'
+export const POPULAR_KEY = 'popular'
+export const DETAILS_KEY = 'details'

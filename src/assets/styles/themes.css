@@ -1,0 +1,103 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.reservoir {
+  --theme-bg: #6D4A32;
+  --theme-text: #F4F2EE;
+  --theme-card: #E8A6AA;
+  --theme-accent: #E78C3D;
+  --theme-secondary: #504d6c;
+  --theme-muted: #E5C940;
+  --theme-highlight: #4F9BAE;
+}
+
+.pulp {
+  --theme-bg: #19172c;
+  --theme-text: #9f0f2c;
+  --theme-card: #f9d067;
+  --theme-accent: #a12a32;
+  --theme-secondary: #C76F70;
+  --theme-muted: #2f3279;
+  --theme-highlight: #3fb5c9;
+}
+
+.killbill1 {
+  --theme-bg: #f2b807;
+  --theme-text: #f7d02a;
+  --theme-card: #a61c28;
+  --theme-accent: #0d0d0d;
+  --theme-secondary: #913077;
+  --theme-muted: #faf0cf;
+  --theme-highlight: #245c59;
+}
+
+.killbill2 {
+  --theme-bg: #707b5d;
+  --theme-text: #faf0cf;
+  --theme-card: #312208;
+  --theme-accent: #5c5739;
+  --theme-secondary: #707b5d;
+  --theme-muted: #dcddd5;
+  --theme-highlight: #c69706;
+}
+
+.jackie {
+  --theme-bg: #33201f;
+  --theme-text: #D4E0F0;
+  --theme-card: #a99438;
+  --theme-accent: #b6523b;
+  --theme-secondary: #646a7a;
+  --theme-muted: #ab795f;
+  --theme-highlight: #4f5a5b;
+}
+
+.deathproof {
+  --theme-bg: #2a0b0c;
+  --theme-text: #e0b887;
+  --theme-card: #b27d77;
+  --theme-accent: #a25137;
+  --theme-secondary: #662E24;
+  --theme-muted: #b76f41;
+  --theme-highlight: #E9D1C7;
+}
+
+.basterds {
+  --theme-bg: #0d0d0d;
+  --theme-text: #a5a95f;
+  --theme-card: #374142;
+  --theme-accent: #6e121a;
+  --theme-secondary: #2a0b0c;
+  --theme-muted: #637173;
+  --theme-highlight: #696e68;
+}
+
+.django {
+  --theme-bg: #1c0801;
+  --theme-text: #662E24;
+  --theme-card: #7791a8;
+  --theme-accent: #904c04;
+  --theme-secondary: #8b8a85;
+  --theme-muted: #434632;
+  --theme-highlight: #765437;
+}
+
+.hateful {
+  --theme-bg: #050010;
+  --theme-text: #9c9582;
+  --theme-card: #765437;
+  --theme-accent: #650100;
+  --theme-secondary: #191416;
+  --theme-muted: #4C423B;
+  --theme-highlight: #A27E19;
+}
+
+.hollywood {
+  --theme-bg: #7791a8;
+  --theme-text: #f9e7c6;
+  --theme-card: #3b2a23;
+  --theme-accent: #b4311c;
+  --theme-secondary: #a67c52;
+  --theme-muted: #d9d3c9;
+  --theme-highlight: #2f558f;
+}
